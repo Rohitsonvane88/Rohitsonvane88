@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohit Sonvane</h1>
+<img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png"/>
 <h3 align="center">A passionate full stack web developer from India</h3>
 <img width="400" align="right" src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitsonvane88&label=Profile%20views&color=0e75b6&style=flat" alt="rohitsonvane88" /> </p>
