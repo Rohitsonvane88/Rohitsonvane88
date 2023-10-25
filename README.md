@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitsonvane88&label=Profile%20views&color=0e75b6&style=flat" alt="rohitsonvane88" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohitsonvane88" alt="rohitsonvane88" /></a> </p>
-
 - 🌱 I’m currently learning **Artificial Intelligence & Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://rohit-sonvane-portfolio.netlify.app/](https://rohit-sonvane-portfolio.netlify.app/)
